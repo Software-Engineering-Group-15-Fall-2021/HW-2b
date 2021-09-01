@@ -8,8 +8,7 @@ setup(
     author_email='nehaagarwal121@gmail.com',    
       classifiers=[
           "License :: MIT",
-          "Programming Language :: Python",
-          "Development Status :: 3 - Alpha",
+          "Programming Language :: Python",       
           "Intended Audience :: Developers",
           "Topic :: Programming example",
       ],
