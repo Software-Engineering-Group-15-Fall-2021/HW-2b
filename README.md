@@ -26,9 +26,14 @@ This is the Zenodo DOI agreement
 
 # Authors
 Parth Shailesh Thosani
+
 Parth Sarang Jinturkar
+
 Nisarg Shailesh Shah
+
 Simran Bosamiya
+
 Neha Baliram Agarwal
+
 
 
