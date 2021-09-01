@@ -1,4 +1,4 @@
-def even_odd(int num):
+def even_odd(num):
 	if num%2==0:
 		print("number is even")
 	else:

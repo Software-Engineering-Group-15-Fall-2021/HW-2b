@@ -1,3 +1,5 @@
+from code.hw_program import even_odd
+
 def test_odd_even():
     assert even_odd(7) == "number is odd", "Should be odd"
     assert even_odd(0) == "number is even", "Should be even"
