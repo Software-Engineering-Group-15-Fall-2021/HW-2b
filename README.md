@@ -5,3 +5,4 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
 ![GitHub contributors](https://img.shields.io/github/contributors/freakNewton/HW-2B)
 ![GitHub last commit](https://img.shields.io/github/last-commit/freakNewton/HW-2b)
+![GitHub issues](https://img.shields.io/github/issues/freakNewton/HW-2b)
