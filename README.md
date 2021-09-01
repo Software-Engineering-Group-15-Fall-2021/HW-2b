@@ -1,6 +1,6 @@
 # Software Engineering HW-2b
 
-This repository shows the program of odd-even along with the testing conditions.
+This repository shows the program of odd-even along with the testing conditions. It is a part of the assignments of Software Engineering Homework - 2B
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
 ![GitHub contributors](https://img.shields.io/github/contributors/freakNewton/HW-2B)
@@ -12,7 +12,7 @@ This repository shows the program of odd-even along with the testing conditions.
 # Commits
 ![GitHub last commit](https://img.shields.io/github/last-commit/freakNewton/HW-2b)
 
-This section shows the the last commit
+This section shows when the last commit is done
 
 # Open Issues
 ![GitHub issues](https://img.shields.io/github/issues/freakNewton/HW-2b)
@@ -23,4 +23,12 @@ This section shows the number of open issues in the project and the repository
 [![DOI](https://zenodo.org/badge/401821008.svg)](https://zenodo.org/badge/latestdoi/401821008)
 
 This is the Zenodo DOI agreement
+
+# Authors
+Parth Shailesh Thosani
+Parth Sarang Jinturkar
+Nisarg Shailesh Shah
+Simran Bosamiya
+Neha Baliram Agarwal
+
 
