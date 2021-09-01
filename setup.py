@@ -5,13 +5,13 @@ setup(
     version='1.0',
     description='Software Engineering Homework 2b',
     author='Neha Agarwal',
-    author_email='nehaagarwal121@gmail.com',    
-      classifiers=[
+    author_email='nehaagarwal121@gmail.com',     
+    license="MIT",
+    classifiers=[
           "License :: MIT",
           "Programming Language :: Python",       
           "Intended Audience :: Developers",
           "Topic :: Programming example",
-      ],
-      license='MIT',
+      ],      
       install_requires=['numpy','matplotlib','pandas']
       )
