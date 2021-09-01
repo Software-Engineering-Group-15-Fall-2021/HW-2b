@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name=odd-even',
+    name='even_odd',
     version='1.0',
     description='Software Engineering Homework 2b',
     author='Neha Agarwal',
