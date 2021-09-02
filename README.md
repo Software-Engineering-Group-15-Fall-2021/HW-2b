@@ -3,7 +3,7 @@
 This repository shows the program of odd-even along with the testing conditions. It is a part of the assignments of Software Engineering Homework - 2B
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
-![GitHub contributors](https://img.shields.io/github/contributors/freakNewton/HW-2B)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/freakNewton/HW-2b)
 
 # License
 ![GitHub](https://img.shields.io/github/license/freakNewton/HW-2b)
