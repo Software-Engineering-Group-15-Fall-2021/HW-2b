@@ -1,5 +1,7 @@
 # Software Engineering HW-2b
 
+![ODD or EVEN](https://user-images.githubusercontent.com/89279195/131880299-19927f79-44cd-4355-9b07-797c34e42235.png)
+
 This repository shows the program of odd-even along with the testing conditions. It is a part of the assignments of Software Engineering Homework - 2B
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
