@@ -33,7 +33,7 @@ Parth Sarang Jinturkar
 
 Nisarg Shailesh Shah
 
-Simran Bosamiya
+Simran Bosamiya https://github.com/SimranBosmiya
 
 Neha Balram Agarwal
 
