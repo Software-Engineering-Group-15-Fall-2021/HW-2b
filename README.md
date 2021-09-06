@@ -5,6 +5,7 @@
 This repository shows the program of odd-even along with the testing conditions. It is a part of the assignments of Software Engineering Homework - 2B
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy)
+![Build Status](https://github.com/Software-Engineering-Group-15-Fall-2021/HW-2b/workflows/build/badge.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors-anon/freakNewton/HW-2b)
 
 # License
