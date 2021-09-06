@@ -1,7 +1,7 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
 
-name: Python application
+name: build
 
 on:
   push:
@@ -13,7 +13,9 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
+    env:
+      working_directory: ./test
+    
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.9
@@ -34,3 +36,4 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+        working
